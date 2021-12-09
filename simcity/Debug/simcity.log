@@ -1,0 +1,63 @@
+﻿  silnikGry.cpp
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(9,24): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(104,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(114,46): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(133,55): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(133,35): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(143,54): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(143,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(148,54): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(148,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(201,99): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(201,64): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(202,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(202,61): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(209,99): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(209,64): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(210,74): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(210,61): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(215,89): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(215,63): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(216,66): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(216,60): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(242,112): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(242,84): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(279,112): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(279,84): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(325,54): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(325,34): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(330,62): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\silnikGry.cpp(330,42): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  simcity.vcxproj -> C:\Users\kryst\Desktop\projekt_PJC\7\simcity\Debug\simcity.exe

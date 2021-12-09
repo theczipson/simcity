@@ -1,0 +1,12 @@
+﻿  plansza.cpp
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\plansza.cpp(10,13): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\plansza.cpp(11,14): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\plansza.cpp(45,14): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\plansza.cpp(262,16): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+C:\Users\kryst\Desktop\projekt_PJC\7\simcity\simcity\plansza.cpp(269,15): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 529 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  simcity.vcxproj -> C:\Users\kryst\Desktop\projekt_PJC\7\simcity\Release\simcity.exe
